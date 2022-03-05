@@ -2,9 +2,7 @@ import java.net.UnknownHostException;
 import java.util.ArrayList;
 
 /**
- * @author      Brandon Howe
  * @author      Stephen Muharsky
- * @author      William Baker
  * @version     1.0
  * @since       1.0
  */
